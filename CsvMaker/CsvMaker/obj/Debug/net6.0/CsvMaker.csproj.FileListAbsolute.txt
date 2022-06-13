@@ -1,0 +1,15 @@
+C:\Coding\CsvMaker\CsvMaker\bin\Debug\net6.0\CsvMaker.exe
+C:\Coding\CsvMaker\CsvMaker\bin\Debug\net6.0\CsvMaker.deps.json
+C:\Coding\CsvMaker\CsvMaker\bin\Debug\net6.0\CsvMaker.runtimeconfig.json
+C:\Coding\CsvMaker\CsvMaker\bin\Debug\net6.0\CsvMaker.dll
+C:\Coding\CsvMaker\CsvMaker\bin\Debug\net6.0\ref\CsvMaker.dll
+C:\Coding\CsvMaker\CsvMaker\bin\Debug\net6.0\CsvMaker.pdb
+C:\Coding\CsvMaker\CsvMaker\obj\Debug\net6.0\CsvMaker.csproj.AssemblyReference.cache
+C:\Coding\CsvMaker\CsvMaker\obj\Debug\net6.0\CsvMaker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding\CsvMaker\CsvMaker\obj\Debug\net6.0\CsvMaker.AssemblyInfoInputs.cache
+C:\Coding\CsvMaker\CsvMaker\obj\Debug\net6.0\CsvMaker.AssemblyInfo.cs
+C:\Coding\CsvMaker\CsvMaker\obj\Debug\net6.0\CsvMaker.csproj.CoreCompileInputs.cache
+C:\Coding\CsvMaker\CsvMaker\obj\Debug\net6.0\CsvMaker.dll
+C:\Coding\CsvMaker\CsvMaker\obj\Debug\net6.0\ref\CsvMaker.dll
+C:\Coding\CsvMaker\CsvMaker\obj\Debug\net6.0\CsvMaker.pdb
+C:\Coding\CsvMaker\CsvMaker\obj\Debug\net6.0\CsvMaker.genruntimeconfig.cache
