@@ -1,0 +1,8 @@
+.editorconfig
+.CsvMaker.sln
+.vs
+CsvMaker/bin
+CsvMaker/obj
+CsvMaker/CsvMaker.csproj
+CsvMaker/data.csv
+CsvMaker/data.txt
