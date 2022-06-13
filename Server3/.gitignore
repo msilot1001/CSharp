@@ -2,5 +2,5 @@
 .vs
 *.csproj
 *.config
-DiscordBot2/bin
-DiscordBot2/obj
+Server3/bin
+Server3/obj
